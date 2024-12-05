@@ -338,7 +338,7 @@ header.sticky {
   margin-bottom: 0.5rem;
 }
 
-.row h5 {
+.row h5 a{
   font-size: 20px;
   font-weight: 600;
   color: var(--other-color);
@@ -411,7 +411,7 @@ form .send-btn {
   font-weight: 600;
   transition: all 0.5s ease;
   cursor: pointer;
-  width: 30%;
+  /* width: 30%; */
 }
 
 form .send-btn:hover {
