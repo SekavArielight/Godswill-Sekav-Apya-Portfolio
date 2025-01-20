@@ -492,7 +492,7 @@ form .send-btn:hover {
   .about {
     grid-template-columns: 1fr;
     gap: 2em;
-    text-align: center;
+    /* text-align: center; */
   }
 
   .about-img img {
