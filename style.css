@@ -338,7 +338,7 @@ header.sticky {
   margin-bottom: 0.5rem;
 }
 
-.row h5 a{
+.row h5 a {
   font-size: 20px;
   font-weight: 600;
   color: var(--other-color);
@@ -588,41 +588,41 @@ form .send-btn:hover {
     font-size: 12px;
   }
 
-  .hero{
+  .hero {
     margin-top: 25px;
   }
 }
 
-@media (max-width: 430px){
-    header.sticky {
-        padding: 6px 4%;
-      }
+@media (max-width: 430px) {
+  header.sticky {
+    padding: 6px 4%;
+  }
 
-      .logo {
-        font-size: 24px;
-      }
+  .logo {
+    font-size: 24px;
+  }
 
-      .hero{
-        margin-top: 35px;
-      }
+  .hero {
+    margin-top: 35px;
+  }
 }
 
 /* MORE TO BE DONE BENEATH */
 
-@media (max-width: 335px){
-    header.sticky {
-        padding: 4px 1%;
-      }
+@media (max-width: 335px) {
+  header.sticky {
+    padding: 4px 1%;
+  }
 
-      .logo {
-        font-size: 20px;
-      }
+  .logo {
+    font-size: 20px;
+  }
 
-      .h-btn {
-        font-size: 10px;
-      }
+  .h-btn {
+    font-size: 10px;
+  }
 
-      .hero{
-        margin-top: 55px;
-      }
+  .hero {
+    margin-top: 55px;
+  }
 }
